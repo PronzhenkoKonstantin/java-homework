@@ -19,8 +19,9 @@
 
 В процессе тестирования использовались следующие артефакты:
 
-Инструкция по установке OpenJDK 11 https://github.com/netology-code/javaqa-homeworks/blob/master/intro/openjdk11-manual.md 
-Руководство использования https://github.com/netology-code/javaqa-homeworks/blob/master/intro/user-manual.md
+Инструкция по установке OpenJDK 11: https://github.com/netology-code/javaqa-homeworks/blob/master/intro/openjdk11-manual.md 
+
+Руководство использования:  https://github.com/netology-code/javaqa-homeworks/blob/master/intro/user-manual.md
 
 В качестве тестовых данных использовались данные:
 
