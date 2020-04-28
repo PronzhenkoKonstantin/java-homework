@@ -23,7 +23,7 @@
 
 Руководство использования:  https://github.com/netology-code/javaqa-homeworks/blob/master/intro/user-manual.md
 
-В качестве тестовых данных использовались данные:
+**В качестве тестовых данных использовались данные:**
 
 Руководство использования https://github.com/netology-code/javaqa-homeworks/blob/master/intro/user-manual.md
 
